@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/alex/Documents/rutgers/c and unix/ass4",
+      "program": "/Users/alex/Documents/rutgers/c and unix/ass4/build/Release/outRelease"
+    }
+  ]
+}
