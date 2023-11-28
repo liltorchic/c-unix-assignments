@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/alex/Documents/rutgers/c and unix/ass4",
-      "program": "/Users/alex/Documents/rutgers/c and unix/ass4/build/Release/outRelease"
+      "cwd": "/Users/alex/Documents/rutgers/c and unix/c-unix-assignments/a4",
+      "program": "/Users/alex/Documents/rutgers/c and unix/c-unix-assignments/a4/build/Debug/outDebug"
     }
   ]
 }
