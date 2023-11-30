@@ -1,3 +1,16 @@
+/*
+Write a program that inputs three different integers from the keyboard, then prints the sum, the
+average, the product, the smallest and the largest of these numbers. The screen dialogue should
+appear as follows:
+
+Enter three different integers: 13 27 14
+Sum is: 54
+Average is: 18
+Product is: 4914
+Smallest is: 13
+Largest is: 27
+*/
+
 //  Alex Koehn
 //  09/24/2023
 //

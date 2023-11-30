@@ -1,3 +1,17 @@
+/*
+Collecting money becomes increasingly difficult during periods of
+recession, so companies may tighten their credit limits to prevent their accounts receivable (money
+owed to them) from becoming too large. In response to a prolonged recession, one company has
+cut its customers’ credit limits to 4/5. Thus, if a particular customer had a credit limit of $5000,
+it’s now $4000. If a customer had a credit limit of $10000, it’s now $8000. Write a program in
+form of a function that analyzes the credit status of three customers of this company. 
+For each customer you’re given:
+a) The customer’s account number.
+b) The customer’s credit limit before the recession.
+c) The customer’s current balance (i.e., the amount the customer owes the company).
+Your program should calculate and print the new credit limit for each customer and should
+determine (and print) which customers have current balances that exceed their new credit limits*/
+
 //Alex Koehn
 //assignment 2.1
 

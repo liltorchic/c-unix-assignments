@@ -1,3 +1,9 @@
+/*
+Use one-dimensional arrays to solve the following problem. Read in two sets
+of numbers, each having 10 numbers. After reading all values, display all the elements in the
+collection of both sets of numbers (check the union of 2 sets’ definition). Use the smallest possible
+array to solve this problem */
+
 //Alex Koehn
 //Assignment 3.3
 

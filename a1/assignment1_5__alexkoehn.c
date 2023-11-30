@@ -1,3 +1,8 @@
+/*
+A prime number is any natural number greater than 1 that is divisible only by 1 and by itself.
+Write a C program, Pseudo code, and draw a flowchart that reads an integer and determines
+whether it is a prime number or not */
+
 //  Alex Koehn
 //  09/26/2023
 //

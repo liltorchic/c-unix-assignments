@@ -1,3 +1,11 @@
+/*
+Write a C program, pseudo code, and draw a flowchart that inputs one four-digit number,
+separates the number into its individual digits and prints the digits separated from one another by
+three spaces each. [Hint: Use combinations of integer division and the remainder operation.]
+For example, if the user types in 2547, the program should print
+    2   5   4   7
+*/
+
 //  Alex Koehn
 //  09/25/2023
 //
@@ -38,11 +46,7 @@ int main(void)
             printf("%d%s",tens , "\t");//print tens place
         }
 
-
         printf("%d%s",input , "\t");//print ones place
         
-
- 
     return 0;
 }
-

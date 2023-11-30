@@ -1,3 +1,9 @@
+/*
+Write a function that receives two strings (maximum length of 20 characters) and concatenate them to a
+new string. You should define strings in the main function as arrays and pass them to “concatenate function”
+as pointers to manipulate/concatenate them. In other words, the process of concatenation in the concatenate
+functions should be all done by pointers*/
+
 //Alex Koehn
 //Assignment 4.1
 

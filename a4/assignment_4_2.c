@@ -1,3 +1,7 @@
+/*
+Write a program in C to count the number of vowels and consonants in a string using a pointer (The
+maximum length of the input string from the user is 20)
+*/
 //Alex Koehn
 //Assignment 4.2
 
